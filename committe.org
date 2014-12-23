@@ -1,0 +1,10 @@
+* Members
+| YEAR | DEPARTMENT | NAME           |
+| 4th  | BEX        |                |
+| 4th  | COM        |                |
+| 3rd  | BEX        |                |
+| 3rd  | COM        |                |
+| 2nd  | BEX        | Sujit Maharjan |
+| 2nd  | COM        |                |
+| 1st  | BEX        |                |
+| 1st  | COM        |                |
