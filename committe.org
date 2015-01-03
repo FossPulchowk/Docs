@@ -1,10 +1,10 @@
 * Members
 | YEAR | DEPARTMENT | NAME           |
 | 4th  | BEX        |                |
-| 4th  | COM        |                |
+| 4th  | BCT        |                |
 | 3rd  | BEX        |                |
-| 3rd  | COM        |                |
+| 3rd  | BCT        |                |
 | 2nd  | BEX        | Sujit Maharjan |
-| 2nd  | COM        |                |
+| 2nd  | BCT        | Manish Munikar |
 | 1st  | BEX        |                |
-| 1st  | COM        |                |
+| 1st  | BCT        |                |
