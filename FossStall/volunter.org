@@ -1,0 +1,9 @@
+* List of volunters for foss stall in locus 2015
+| Name           | Class | Year |
+|----------------+-------+------|
+| Sujit Maharjan | BEX   |    2 |
+| Manish Munikar | COM   |    2 |
+| Kritesh Pahi   | COM   |    2 |
+| Anish Shrestha | COM   |    1 |
+|                |       |      |
+  
